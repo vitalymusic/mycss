@@ -13,16 +13,13 @@ mans-projekts/
 📝 2. HTML struktūra
 Failā index.html izveido pamatstruktūru:
 
-html
-Copy
-Edit
 <!DOCTYPE html>
 <html lang="lv">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Mans projekts</title>
-  <link rel="stylesheet" href="mini.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/vitalymusic/mycss@main/my.css">
 </head>
 <body>
 
